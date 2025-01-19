@@ -12,6 +12,7 @@ package com.flipkart;
                    
 		    if(n % i == 0){
 	              Sytem.out.println(i);
+		      System.out.println(i*i);
                    } 		      
 
 	 }
